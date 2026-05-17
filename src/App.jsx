@@ -10,7 +10,7 @@ function App() {
       <WavifyBackground />
       <Header />
       <Feed />
-      <h1>hello world</h1>
+      {/* <h1>hello world</h1> */}
     </div>
   )
 }
