@@ -20,7 +20,7 @@ const profile = {
         instagram: null,
         youtube: null,
     },
-    resume: "/Lubna_Resume.pdf",
+    resume: "/Lubna-Resume2.pdf",
     highlights: [
         { id: 1, label: "About", bg: aboutBg },
         { id: 2, label: "Experience", bg: experienceBg },

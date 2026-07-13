@@ -135,7 +135,7 @@ function Header() {
                 </a>
                 <button
                     onClick={handleShare}
-                    className='flex-1 cursor-pointer rounded-md border border-gray-300 px-6 py-1.5 text-sm font-medium hover:bg-gray-100 transition'>
+                    className='flex-1 cursor-pointer rounded-md border border-gray-800 px-6 py-1.5 text-sm font-medium hover:bg-gray-500/50 transition'>
                     Share Profile
                 </button>
             </div>

@@ -43,7 +43,7 @@ function Feed() {
 
 
     return (
-        <div className='max-w-2xl mx-auto px-4 mt-8'>
+        <div className='max-w-2xl mx-auto px-4 my-8'>
 
             {/* toggle buttons */}
             <div className='flex flex-row gap-10 items-center justify-evenly border-b border-gray-200 mb-6'>
